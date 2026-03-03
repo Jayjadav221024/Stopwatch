@@ -1,4 +1,4 @@
-//media player
+//media player code
 let [second , min, hours ] = [0,0,0];
 let dipalytime = document.getElementById('displaytime');
 let timer  = null;
