@@ -6,7 +6,7 @@ let timer  = null;
 function stopwatch() {
     second++;
     if (second == 60) {
-        second == 0
+        second = 0
         min++;
     if(min == 60) {
         min=0;
